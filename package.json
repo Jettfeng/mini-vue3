@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Jettfeng/mini-vue3/issues"
   },
-  "homepage": "https://github.com/Jettfeng/mini-vue3#readme"
+  "homepage": "https://github.com/Jettfeng/mini-vue3#readme",
+  "dependencies": {
+    "rollup": "^2.79.1"
+  }
 }
